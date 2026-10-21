@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MapplsGeoanalytics",
-            url: "https://mmi-api-team.s3.amazonaws.com/Mappls-SDKs/iOS_Legacy_Auth/MapplsGeoanalytics/MapplsGeoanalytics.xcframework-1.0.1.zip",
-            checksum: "ab19fe30d53d76920b39d743e901e4ad0ebe9457326c75c9bfdd48b0dfd805cf"
+            url: "https://mmi-api-team.s3.amazonaws.com/Mappls-SDKs/iOS_Legacy_Auth/MapplsGeoanalytics/MapplsGeoanalytics.xcframework-1.0.2.zip",
+            checksum: "758748379e28ffce75f77f805ae055f299b2cb8373375458a09bd4182dba92a2"
         )
     ]
 )
